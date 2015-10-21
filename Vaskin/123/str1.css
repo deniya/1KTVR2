@@ -1,0 +1,9 @@
+*{
+	transition: all .5s;
+	box-sizing: border-box;
+}
+body {
+	font: 1em 'PT Sans',Arial,Helvetica,sans-serif;
+	background: url(http://wallbox.ru/wallpapers/main/201121/26bc7624c8b3d125a5d9fa820d4d7fcb.jpg);
+	color: #333;
+}
